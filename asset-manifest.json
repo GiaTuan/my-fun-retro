@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/my-fun-retro/static/css/main.0a682071.chunk.css",
+    "main.js": "/my-fun-retro/static/js/main.8b5f200d.chunk.js",
+    "main.js.map": "/my-fun-retro/static/js/main.8b5f200d.chunk.js.map",
+    "runtime-main.js": "/my-fun-retro/static/js/runtime-main.8aa88dc6.js",
+    "runtime-main.js.map": "/my-fun-retro/static/js/runtime-main.8aa88dc6.js.map",
+    "static/js/2.42303e38.chunk.js": "/my-fun-retro/static/js/2.42303e38.chunk.js",
+    "static/js/2.42303e38.chunk.js.map": "/my-fun-retro/static/js/2.42303e38.chunk.js.map",
+    "index.html": "/my-fun-retro/index.html",
+    "precache-manifest.ba81ac4e15fb9cfc7d7ea9c81a8fa284.js": "/my-fun-retro/precache-manifest.ba81ac4e15fb9cfc7d7ea9c81a8fa284.js",
+    "service-worker.js": "/my-fun-retro/service-worker.js",
+    "static/css/main.0a682071.chunk.css.map": "/my-fun-retro/static/css/main.0a682071.chunk.css.map",
+    "static/js/2.42303e38.chunk.js.LICENSE.txt": "/my-fun-retro/static/js/2.42303e38.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8aa88dc6.js",
+    "static/js/2.42303e38.chunk.js",
+    "static/css/main.0a682071.chunk.css",
+    "static/js/main.8b5f200d.chunk.js"
+  ]
+}
